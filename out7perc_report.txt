@@ -1,0 +1,303 @@
+Accession: NC_013205.1, Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_013206.1, Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446 plasmid pAACI01, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_013207.1, Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446 plasmid pAACI02, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_013208.1, Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446 plasmid pAACI03, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP029289.2, Acidianus brierleyi strain DSM 1651 chromosome, complete genome
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP097635.1, Aquincola tertiaricarbonis strain RN12 chromosome 1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP097636.1, Aquincola tertiaricarbonis strain RN12 chromosome 2, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP097637.1, Aquincola tertiaricarbonis strain RN12 plasmid A, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP097638.1, Aquincola tertiaricarbonis strain RN12 plasmid B, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012401.1, Azospirillum thiophilum strain BV-S chromosome 1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012402.1, Azospirillum thiophilum strain BV-S chromosome 2, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012403.1, Azospirillum thiophilum strain BV-S chromosome 3, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012404.1, Azospirillum thiophilum strain BV-S chromosome 4, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012405.1, Azospirillum thiophilum strain BV-S chromosome 5, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012406.1, Azospirillum thiophilum strain BV-S chromosome 6, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012407.1, Azospirillum thiophilum strain BV-S chromosome 7, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP012408.1, Azospirillum thiophilum strain BV-S chromosome 8, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: CP012331.1, Alcanivorax xenomutans strain P40, complete genome
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_002932.3, Chlorobaculum tepidum TLS, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_013939.1, Deferribacter desulfuricans SSM1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_013940.1, Deferribacter desulfuricans SSM1 megaplasmid pDF308, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: CP088016.1, Gloeomargaritales cyanobacterium VI4D9 chromosome, complete genome
+113151 matches out of 9081861matches found throughout this data set
+1.2459010328389744%
+Accession: NC_010337.2, Heliomicrobium modesticaldum Ice1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_020411.1, Hydrogenobaculum sp. HO, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_JH597752.1, Metallosphaera yellowstonensis MK1 MetMK1scaffold_1, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_009767.1, Roseiflexus castenholzii DSM 13941, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_012438.1, Sulfurihydrogenibium azorense Az-Fu1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP085785.1, Synechococcus elongatus PCC 6301 chromosome, complete genome
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP085786.1, Synechococcus elongatus PCC 6301 plasmid pANL, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP085787.1, Synechococcus elongatus PCC 6301 plasmid pANS, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: CP000239.1, Synechococcus sp. JA-3-3Ab, complete genome
+8968643 matches out of 9081861matches found throughout this data set
+98.7533612329015%
+Accession: NZ_BMAP01000001.1, Thermobrachium celere strain A9 sequence001, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000002.1, Thermobrachium celere strain A9 sequence002, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000003.1, Thermobrachium celere strain A9 sequence003, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000004.1, Thermobrachium celere strain A9 sequence004, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000005.1, Thermobrachium celere strain A9 sequence005, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000006.1, Thermobrachium celere strain A9 sequence006, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000007.1, Thermobrachium celere strain A9 sequence007, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000008.1, Thermobrachium celere strain A9 sequence008, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000009.1, Thermobrachium celere strain A9 sequence009, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000010.1, Thermobrachium celere strain A9 sequence010, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000011.1, Thermobrachium celere strain A9 sequence011, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000012.1, Thermobrachium celere strain A9 sequence012, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000013.1, Thermobrachium celere strain A9 sequence013, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000014.1, Thermobrachium celere strain A9 sequence014, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000015.1, Thermobrachium celere strain A9 sequence015, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000016.1, Thermobrachium celere strain A9 sequence016, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000017.1, Thermobrachium celere strain A9 sequence017, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000018.1, Thermobrachium celere strain A9 sequence018, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000019.1, Thermobrachium celere strain A9 sequence019, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000020.1, Thermobrachium celere strain A9 sequence020, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000021.1, Thermobrachium celere strain A9 sequence021, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000022.1, Thermobrachium celere strain A9 sequence022, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000023.1, Thermobrachium celere strain A9 sequence023, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000024.1, Thermobrachium celere strain A9 sequence024, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000025.1, Thermobrachium celere strain A9 sequence025, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000026.1, Thermobrachium celere strain A9 sequence026, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000027.1, Thermobrachium celere strain A9 sequence027, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000028.1, Thermobrachium celere strain A9 sequence028, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000029.1, Thermobrachium celere strain A9 sequence029, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000030.1, Thermobrachium celere strain A9 sequence030, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000031.1, Thermobrachium celere strain A9 sequence031, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000032.1, Thermobrachium celere strain A9 sequence032, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000033.1, Thermobrachium celere strain A9 sequence033, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000034.1, Thermobrachium celere strain A9 sequence034, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000035.1, Thermobrachium celere strain A9 sequence035, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000036.1, Thermobrachium celere strain A9 sequence036, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000037.1, Thermobrachium celere strain A9 sequence037, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000038.1, Thermobrachium celere strain A9 sequence038, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000039.1, Thermobrachium celere strain A9 sequence039, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000040.1, Thermobrachium celere strain A9 sequence040, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000041.1, Thermobrachium celere strain A9 sequence041, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000042.1, Thermobrachium celere strain A9 sequence042, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000043.1, Thermobrachium celere strain A9 sequence043, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000044.1, Thermobrachium celere strain A9 sequence044, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000045.1, Thermobrachium celere strain A9 sequence045, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000046.1, Thermobrachium celere strain A9 sequence046, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000047.1, Thermobrachium celere strain A9 sequence047, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000048.1, Thermobrachium celere strain A9 sequence048, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000049.1, Thermobrachium celere strain A9 sequence049, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000050.1, Thermobrachium celere strain A9 sequence050, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000051.1, Thermobrachium celere strain A9 sequence051, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000052.1, Thermobrachium celere strain A9 sequence052, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000053.1, Thermobrachium celere strain A9 sequence053, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000054.1, Thermobrachium celere strain A9 sequence054, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000055.1, Thermobrachium celere strain A9 sequence055, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000056.1, Thermobrachium celere strain A9 sequence056, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000057.1, Thermobrachium celere strain A9 sequence057, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000058.1, Thermobrachium celere strain A9 sequence058, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000059.1, Thermobrachium celere strain A9 sequence059, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_BMAP01000060.1, Thermobrachium celere strain A9 sequence060, whole genome shotgun sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_010321.1, Thermoanaerobacter pseudethanolicus ATCC 33223, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_011959.1, Thermomicrobium roseum DSM 5159, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NC_011961.1, Thermomicrobium roseum DSM 5159 plasmid unnamed, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP039268.1, Thermochromatium tepidum ATCC 43061 chromosome, complete genome
+67 matches out of 9081861matches found throughout this data set
+0.0007377342595311688%
+Accession: NC_011296.1, Thermodesulfovibrio yellowstonii DSM 11347, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP063362.1, Xanthobacter dioxanivorans strain YN2 chromosome, complete genome
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP063363.1, Xanthobacter dioxanivorans strain YN2 plasmid unnamed1, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP063364.1, Xanthobacter dioxanivorans strain YN2 plasmid unnamed2, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP063365.1, Xanthobacter dioxanivorans strain YN2 plasmid unnamed3, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
+Accession: NZ_CP063366.1, Xanthobacter dioxanivorans strain YN2 plasmid unnamed4, complete sequence
+0 matches out of 9081861matches found throughout this data set
+0.0%
